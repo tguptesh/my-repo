@@ -1,0 +1,2 @@
+HI I have created a Master in my branch using GUI
+Checkin the file to master branch
